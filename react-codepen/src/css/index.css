@@ -18,6 +18,7 @@ body {
     flex-direction: column;
     padding: .5rem;
     background-color: hsl(225,6%,25%);
+    opacity: 0.9;
 }
 
 .editor-container.collapsed {
